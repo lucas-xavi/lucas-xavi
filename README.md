@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou Lucas Xavier dos Santos Bento</h1>
+<h1 align="center">Oi 👋, Eu sou Lucas</h1>
 <h3 align="center">Iniciando minha jornada em Big Data e Engenharia de Dados, buscando contribuir com projetos práticos e impactantes para a tomada de decisões baseadas em dados.</h3>
 
 ## 🚀 Sobre mim

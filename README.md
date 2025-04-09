@@ -3,7 +3,7 @@
 
 ## 🚀 Sobre mim
 - 🎯 Atualmente focado em aprimorar minhas habilidades em **Python, SQL, e Cloud**.  
-- 🌱 Aprendendo **Pandas, NumPy, ETL e práticas de engenharia de dados**.  
+- 🌱 Aprendendo **Pandas, ETL e práticas de engenharia de dados**.  
 - 🔍 Interessado em **extração, transformação e manipulação de dados**.  
 - 📫 Como me encontrar: **lucas.xavier.b7@gmail.com**  
 
@@ -19,9 +19,6 @@
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>

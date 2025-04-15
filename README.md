@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou o Lucas</h1>
-<h3 align="center">Explorando o universo de dados, com foco em aprender e contribuir com projetos práticos que gerem valor através de insights e automações.</h3>
+<h3 align="center">No momento estou explorando o universo de dados, com foco em aprender e contribuir com projetos práticos que gerem valor através de insights e automações.</h3>
 
 ## 🚀 Sobre mim
 - 🎯 Atualmente focado em aprimorar minhas habilidades em **Python, SQL e Cloud**.  

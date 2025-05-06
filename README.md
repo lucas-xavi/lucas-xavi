@@ -2,9 +2,10 @@
 <h3 align="center">No momento estou explorando o universo de dados, com foco em aprender e contribuir com projetos práticos que gerem valor através de insights e automações.</h3>
 
 ## 🚀 Sobre mim
-- 🎯 Atualmente focado em aprimorar minhas habilidades em **Python, SQL e Cloud**.  
-- 🌱 Estudando **Pandas, ETL e boas práticas no tratamento e análise de dados**.  
-- 🔍 Interessado em **extração, transformação, automação e organização de dados**.   
+
+- 🎯 Entusiasta de **Python, SQL & Cloud**; aplico para resolver desafios de dados.  
+- 🌱 Em constante aprendizado de **Pandas, ETL e melhores práticas de Data Engineering**.  
+- 🔍 Desenvolvendo skills em **pipeline de dados**: extração, automação e organização para análises robustas. 
 
 ## 📜 Certificações
 
